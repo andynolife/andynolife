@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andy</h1>
-<h3 align="center" font-style="italic">Making trash project for everyone</h3>
+<h3 align="center">Making trash project for everyone</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andynolife&label=Visitor&color=a10eb4&style=flat" alt="andynolife" /> </p>
 
