@@ -1,12 +1,12 @@
 # Hi 👋, I'm Andy2011
 
-### A passionate C developer from Indonesia 🇮🇩
+### _A passionate C developer from Indonesia 🇮🇩_
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andynolife&label=Visitor&color=blueviolet&style=flat" alt="andynolife" /> </p>
 
-- 📫 How to reach me **dw201366@gmail.com**
+- 📫 How to reach me: **dw201366@gmail.com**
 
-- ⚡ Fun fact **I'm Junior High School Student**
+- ⚡ Fun fact: _**I'm Junior High School Student**_
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
