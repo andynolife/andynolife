@@ -1,4 +1,4 @@
-# Hi 👋, I'm Andy2011
+# Hi 👋, I'm Andy
 
 ### _A passionate C developer from Indonesia 🇮🇩_
 
